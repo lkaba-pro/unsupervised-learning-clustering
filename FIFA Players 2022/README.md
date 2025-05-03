@@ -1,4 +1,4 @@
-# ⚽ Clustering FIFA 2022 Players using K-means and DBSCAN algorithms
+# ⚽ Clustering FIFA 2022 Players using K-means & DBSCAN algorithms
 
 In this notebook inspired by a tutorial on Youtube, we apply two unsupervised learning algorithms — **K-means** and **DBSCAN** — to the FIFA 2022 players dataset. 
 
