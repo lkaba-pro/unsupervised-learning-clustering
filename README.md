@@ -7,3 +7,6 @@ This repository will contain implementations of various unsupervised learning al
 - **Clustering**: [List of clustering techniques used, e.g., K-Means, Hierarchical Clustering, DBSCAN]
 - **Dimensionality Reduction**: [e.g., PCA, t-SNE, UMAP]
 - **Anomaly Detection**: [e.g., Isolation Forest, One-Class SVM]
+
+## Projetc
+- K-means & DBSCAN clustering on 2022 FIFA Players : [:link:](https://github.com/lkaba-pro/unsupervised-learning-clustering/tree/main/FIFA%20Players%202022)
