@@ -9,4 +9,4 @@ This repository will contain implementations of various unsupervised learning al
 - **Anomaly Detection**: [e.g., Isolation Forest, One-Class SVM]
 
 ## Projetc
-- K-means & DBSCAN clustering on 2022 FIFA Players : [:link:](https://github.com/lkaba-pro/unsupervised-learning-clustering/tree/main/FIFA%20Players%202022)
+- K-means & DBSCAN clustering on 2022 FIFA Players ⚽ : [:link:](https://github.com/lkaba-pro/unsupervised-learning-clustering/tree/main/FIFA%20Players%202022)
